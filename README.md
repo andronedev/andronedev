@@ -21,4 +21,4 @@
 <a href="/https://blog.androne.dev/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://blog.androne.dev/feed/" height="30" width="40" /></a>
 </p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=andronedev&theme=dark)](https://github.com/andronedev)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs/username=andronedev&theme=dark)](https://github.com/andronedev)
