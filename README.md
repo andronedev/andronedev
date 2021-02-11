@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">My name is Nicolas, I'm 16 years old, computer science and more precisely development is a passion for me!</h3>
+<h3 align="center">My name is Nicolas, I'm 17 years old, computer science and more precisely development is a passion for me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andronedev&label=Profile%20views&color=0e75b6&style=flat" alt="andronedev" /> </p>
 
